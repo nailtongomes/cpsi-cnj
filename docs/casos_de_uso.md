@@ -14,15 +14,15 @@ Este documento lista cenários de atendimento que pretendemos atender na fase pi
 
 ## Orientação sobre Peticionamento
 1. Advogado solicita instruções para peticionar.
-2. Bot envia link direto para manual e verifica se há modelos disponíveis.
+2. Bot envia link direto para manual e verifica se há vídeos disponíveis.
 3. Se houver dúvidas avançadas, agenda atendimento humano.
 
 ## Denúncias de Fraude
-1. Cidadão relata possível fraude em comunicações.
+1. Cidadão relata possível fraude.
 2. Sistema gera ticket e encaminha imediatamente para setor de segurança.
 3. Usuário recebe confirmação do registro e código de acompanhamento.
 
 ## Educação e Tutoriais
 1. Interessado pergunta como usar alguma funcionalidade do portal.
 2. Agente IA sugere vídeos ou materiais educativos.
-3. Se o usuário desejar, é aberto agendamento para suporte ao vivo.
+3. Se o usuário desejar, é aberto agendamento para suporte.
