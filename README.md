@@ -4,7 +4,7 @@
 
 Uma demonstração completa do **Assistente Digital Inteligente Omnichannel** para Portal Jus.BR que funciona em widget, totem e multi-canal, com fluxos específicos por perfil de usuário.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico da Demonstração
 
 - **Frontend:** React + TypeScript + Tailwind CSS + Vite
 - **Dados:** JSON mockados (simulação realística)
@@ -87,6 +87,7 @@ http://localhost:3000
 - **WhatsApp:** Simulação de chat business
 - **Telegram:** Bot automatizado
 - **Mobile:** App nativo simulado
+- **Ligação** Atendimento por voz - URA/IVR
 
 ### ✅ **Sistema de Protocolos**
 - Geração automática para TODAS as ações
@@ -153,6 +154,6 @@ http://localhost:3000
 ---
 
 **🚀 Projeto pronto para demo de 5 minutos impactante!**
-## 📚 Documentação de Arquitetura
+## 📚 Documentação de Arquitetura para a POC
 Consulte o arquivo [docs/arquitetura_piloto.md](docs/arquitetura_piloto.md) para a proposta de infraestrutura escalável com diagramas Mermaid e descrição dos agentes especializados.
 Consulte também [docs/casos_de_uso.md](docs/casos_de_uso.md) para exemplos de atendimento humanizado.
