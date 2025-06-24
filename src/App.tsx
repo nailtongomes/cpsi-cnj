@@ -90,8 +90,8 @@ function App() {
                     <div className="flex-1">
                       <h2 className="text-xl font-bold mb-2">💡 Demonstração Beta - Pitch CNJ</h2>
                       <p className="opacity-90">
-                        Plataforma omnichannel com IA que <strong>reduziu custos de atendimento em 65%</strong> e 
-                        <strong>aumentou acesso à Justiça em 340%</strong>. Integração nativa com PDPJ em tempo real.
+                        Plataforma omnichannel com IA para <strong>reduzir custos de atendimento </strong> e 
+                        <strong>aumentar acesso à Justiça</strong>. Integração nativa com PDPJ em tempo real.
                       </p>
                       <div className="mt-3 flex gap-4 text-sm">
                         <span className="bg-white bg-opacity-20 px-3 py-1 rounded">🤖 IA Jurídica</span>
@@ -101,7 +101,7 @@ function App() {
                     </div>
                     <button
                       onClick={() => setShowPitchDemo(true)}
-                      className="bg-white text-blue-600 px-6 py-3 rounded-lg font-bold hover:bg-gray-100 transition-colors ml-4"
+                      className="bg-white text-blue-600 px-6 py-3 rounded-lg font-bold hover:bg-gray-100 transition-colors ml-4 hidden"
                     >
                       🎯 VER PITCH
                     </button>
