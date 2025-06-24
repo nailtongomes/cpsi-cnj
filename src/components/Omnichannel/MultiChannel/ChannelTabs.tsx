@@ -1,5 +1,5 @@
 import React from 'react';
-import { Monitor, Smartphone, MessageCircle, Send, TabletSmartphone, Phone } from 'lucide-react';
+import { Monitor, Smartphone, MessageCircle, Send, TabletSmartphone, Phone, Server } from 'lucide-react';
 import { Channel } from '../../../types';
 
 interface ChannelTabsProps {
@@ -50,6 +50,13 @@ const ChannelTabs: React.FC<ChannelTabsProps> = ({ activeChannel, onChannelChang
       icon: Phone,
       description: 'URA + IA por voz',
       color: 'bg-red-500'
+    },
+    {
+      id: 'infrastructure' as Channel,
+      name: 'Infraestrutura',
+      icon: Server,
+      description: 'Arquitetura técnica',
+      color: 'bg-gray-700'
     }
   ];
 
