@@ -1,6 +1,6 @@
 export type UserProfile = 'cidadao' | 'advogado' | 'servidor';
 export type InteractionMode = 'voz' | 'texto';
-export type Channel = 'widget' | 'totem' | 'whatsapp' | 'telegram' | 'mobile' | 'phone';
+export type Channel = 'widget' | 'totem' | 'whatsapp' | 'telegram' | 'mobile' | 'phone' | 'infrastructure';
 
 export interface User {
   id: string;
