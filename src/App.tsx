@@ -9,6 +9,7 @@ import ProtocolGenerator from './components/Features/ProtocolGenerator';
 import RealTimeMetrics from './components/Metrics/RealTimeMetrics';
 import PitchDemo from './components/Demo/PitchDemo';
 import PhoneInterface from './components/Omnichannel/Phone/PhoneInterface';
+import InfrastructureView from './components/Infrastructure/InfrastructureView';
 import { Channel, UserProfile } from './types';
 
 function App() {
@@ -252,6 +253,9 @@ function App() {
             onAction={handleAction}
           />
         );
+
+      case 'infrastructure':
+        return <InfrastructureView />;
 
       default:
         return content;
