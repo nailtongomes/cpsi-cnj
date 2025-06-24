@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+
+# OS files
+.DS_Store
