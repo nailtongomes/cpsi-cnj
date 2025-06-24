@@ -93,7 +93,7 @@ Todos se conectam via mensagens assíncronas, permitindo escalonamento e registr
 
 ```mermaid
 flowchart TD
-    U[Usuário] --> NLU[Rasa NLU]
+    U[Usuário] --> NLU[Rasa NLU + Agentes IA]
     NLU --> D{Pergunta resolvida?}
     D -- Sim --> A1[Resposta N1]
     D -- Não --> A2[Escalonar para Humano]
@@ -134,7 +134,3 @@ Este dimensionamento atende picos de até 1 milhão de usuários considerando us
 1. Definir pipelines de CI/CD (GitHub Actions ou GitLab CI) para construção e deploy automático em clusters Kubernetes.
 2. Criar templates de infraestrutura como código (Terraform ou Helm charts) para facilitar replicação em diferentes ambientes.
 3. Configurar políticas de segurança, backups e testes de carga para validar a escala desejada.
-
----
-
-Esta arquitetura oferece um caminho sólido para iniciar o projeto com baixo custo, alto grau de automação e escalabilidade, garantindo a flexibilidade necessária para implantação em qualquer nuvem pública ou privada.
