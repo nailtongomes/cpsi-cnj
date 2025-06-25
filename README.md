@@ -153,7 +153,7 @@ http://localhost:3000
 
 ---
 
-**🚀 Projeto pronto para demo de 5 minutos impactante!**
 ## 📚 Documentação de Arquitetura para a POC
 Consulte o arquivo [docs/arquitetura_piloto.md](docs/arquitetura_piloto.md) para a proposta de infraestrutura escalável com diagramas Mermaid e descrição dos agentes especializados.
 Consulte também [docs/casos_de_uso.md](docs/casos_de_uso.md) para exemplos de atendimento humanizado.
+Para um desenho de arquitetura técnica, vai em [docs/Nielsen - Arquitetura - Desenho.jpeg](docs/Nielsen - Arquitetura - Desenho.jpeg)
