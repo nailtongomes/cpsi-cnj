@@ -68,7 +68,7 @@ function App() {
                       <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
                       <span className="text-green-800 font-semibold">Sistema Online</span>
                     </div>
-                    <p className="text-sm text-green-700">Conectado aos 90 tribunais brasileiros</p>
+                    <p className="text-sm text-green-700">Conectado aos tribunais brasileiros</p>
                   </div>
                   
                   <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
@@ -167,7 +167,7 @@ function App() {
                     <span className="text-2xl text-green-800 font-bold">Sistema Online</span>
                   </div>
                   <p className="text-xl text-green-700">
-                    Conectado a todos os 90 tribunais brasileiros
+                    Conectado a todos os tribunais brasileiros
                   </p>
                 </div>
                 
