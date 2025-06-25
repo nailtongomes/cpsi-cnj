@@ -96,7 +96,7 @@ function App() {
                       </p>
                       <div className="mt-3 flex gap-4 text-sm">
                         <span className="bg-white bg-opacity-20 px-3 py-1 rounded">🤖 IA Jurídica</span>
-                        <span className="bg-white bg-opacity-20 px-3 py-1 rounded">📱 9 Canais</span>
+                        <span className="bg-white bg-opacity-20 px-3 py-1 rounded">📱 Múltiplos Canais</span>
                         <span className="bg-white bg-opacity-20 px-3 py-1 rounded">♿ 100% Acessível</span>
                       </div>
                     </div>
